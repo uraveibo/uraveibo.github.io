@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uraveibo.github.io/Hjs/sitemap_index.txt
+Sitemap: https://uraveibo.github.io/gcb/sitemap_index.txt
+Sitemap: https://uraveibo.github.io/mUv/sitemap_index.txt
+Sitemap: https://uraveibo.github.io/xCf/sitemap_index.txt
